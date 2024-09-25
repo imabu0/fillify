@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+:root:root:root:root:root body > form > div > div {
+    background-color: #E6E0DE;
+    border-radius: 30px;
+    margin: auto;
+}
+
+:root:root:root:root:root body > form > div > div > div.cog-page-progress.cog-page-progress--steps > div > div > ol {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+
+:root:root:root:root:root body > form > div > div > div.cog-page-progress.cog-page-progress--steps > div > div > ol > li.cog-page-progress__page.is-active.cog-page-progress__page--no-title > a::before {
+    height: 61px;
+    width: 61px;
+    font-family: "Baskervville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    font-size: 40px;
+    border: 3px solid rgba(138, 66, 43, 0.4);
+}
+
+:root:root:root:root:root body > form > div > div > div.cog-page-progress.cog-page-progress--steps > div > div > ol > li.cog-page-progress__page.is-active.cog-page-progress__page--no-title > a::after {
+    height: 61px;
+    width: 61px;
+    font-family: "Baskervville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    font-size: 40px;
+    border: 3px solid rgba(138, 66, 43, 0.4);
+}
+
+:root:root:root:root:root body > form > div > div > div.cog-page-progress.cog-page-progress--steps > div > div > ol > li:nth-child(2) > a::before {
+    height: 61px;
+    width: 61px;
+    font-family: "Baskervville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    font-size: 40px;
+    border: 3px solid rgba(138, 66, 43, 0.4);
+}
+
+:root:root:root:root:root body > form > div > div > div.cog-page-progress.cog-page-progress--steps > div > div > ol > li:nth-child(3) > a::before {
+    height: 61px;
+    width: 61px;
+    font-family: "Baskervville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    font-size: 40px;
+    border: 3px solid rgba(138, 66, 43, 0.4);
+}
+
+:root:root:root:root:root body > form > div > div > div.cog-page-progress.cog-page-progress--steps > div > div > ol > li:nth-child(4) > a::before {
+    height: 61px;
+    width: 61px;
+    font-family: "Baskervville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    font-size: 40px;
+    border: 3px solid rgba(138, 66, 43, 0.4);
+}
+
+:root:root:root:root:root #cog-0, #cog-15, #cog-23 {
+    font-family: "Baskervville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    text-align: center;
+    font-size: 65px;
+}
+
+:root:root:root:root:root #cog-1, #cog-8 {
+    font-family: "Baskervville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    font-size: 38px;
+}
+
+:root:root:root:root:root body > form > div > div > div.cog-body > div.cog-page.cog-wrapper.cog-transition-ltr > div.vue-portal-target > section > div > h2 {
+    font-family: "Baskervville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    font-size: 38px;
+}
+
+:root:root:root:root:root body > form > div > div > div.cog-body > div > div:nth-child(2) > section > div > div:nth-child(2) > section > div > div:nth-child(2) > fieldset > legend {
+    font-family: "Baskervville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    font-size: 20px;
+}
+
+:root:root:root:root:root #cog-3-label, #cog-4-label, #cog-5-label, #cog-6-label, #cog-7-label, #cog-10-label, #cog-12-label, #cog-16-label, #cog-17-label, #cog-18-label, #cog-20-label, #cog-21-label, #cog-22-label, #cog-24-label {
+    font-family: "Baskervville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    font-size: 20px;
+}
+
+:root:root:root:root:root body > form > div > div > div.cog-body > div > div:nth-child(2) > section > div > div:nth-child(3) > section > div > div:nth-child(2) > fieldset > legend {
+    font-family: "Baskervville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    font-size: 20px;
+}
+
+:root:root:root:root:root body > form > div > div > div.cog-body > div > div.cog-row > section > div > div:nth-child(6) > div > div.cog-helptext.cog-html > p {
+    color: black;
+    font-size: 16px;
+}
+
+:root:root:root:root:root body > form > div > div > div.cog-body > div > div:nth-child(2) > section > div > div:nth-child(3) > section > div > div:nth-child(4) > fieldset > legend {
+    font-family: "Baskervville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    font-size: 20px;
+}
+
+:root:root:root:root:root #cog-input-auto-0, #cog-input-auto-1, #cog-3, #cog-4, #cog-5, #cog-6, #cog-7, #cog-input-auto-2, #cog-input-auto-3, #cog-10, #cog-input-auto-4, #cog-input-auto-5, #cog-12, #cog-18, #cog-20, #cog-21, #cog-24 {
+    height: 52px;
+    width: 100%;
+    background-color: white;
+    border: 0;
+}
+
+:root:root:root:root:root body > form > div > div > div.cog-body > div > div.cog-row > section > div > div:nth-child(4) > fieldset > legend {
+    font-family: "Baskervville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    font-size: 20px;
+}
+
+:root:root:root:root:root body > form > div > div > div.cog-body > div > div.cog-row > section > div > div > div.cog-col.cog-col--7 > div {
+    font-family: "Baskervville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+}
+
+:root:root:root:root:root body > form > div > div > div.cog-body > div > div.cog-row > section > div > div > div.cog-col.cog-col--17 > div {
+    font-family: "Inter", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+}
+
+:root:root:root:root:root body > form > div > div > div.cog-body > div.cog-page.cog-wrapper.cog-transition-ltr > div.cog-page__navigation > button.el-button.cog-button--secondary.cog-button--navigation.cog-button--back.el-button--default.cog-button {
+    width: 100%;
+}
+
+:root:root:root:root:root body > form > div > div > div.cog-body > div > div.cog-page__navigation > button {
+    height: 63px;
+    background: #8A422B;
+    width: 100%;
+    font-size: 16px;
+    color: white;
+}
