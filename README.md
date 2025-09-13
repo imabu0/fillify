@@ -1,1 +1,15 @@
-Live : https://mdabubokar0.github.io/soi-form/
+Fillify
+
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
